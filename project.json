@@ -1,0 +1,14 @@
+{
+    "name": "go-alexa-irkit",
+    "description": "Control IR devices with Alexa and IRKit",
+    "memory": 128,
+    "timeout": 30,
+    "role": "arn:aws:iam::XXX",
+    "profile": "irkit-prod",
+    "environment": {
+    "ACCESS_TOKEN": "XXX",
+    "IR_CLIENT_KEY": "XXX",
+    "IR_DEVICE_ID": "XXX"
+  }
+}
+
