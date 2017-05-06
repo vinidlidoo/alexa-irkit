@@ -2,7 +2,7 @@
 
 Hello,
 
-This is a sample implementation of a custom [Alexa Smart Home Skill](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/smart-home-skill-api-reference) using Golang. Alexa recognize your voice command and control your IR-enabled appliances (in this case, Roomba, AC, and lights) by sending IR signal via [IRKit](http://getirkit.com/#IRKit-Internet-API). 
+This is a sample implementation of a custom [Alexa Smart Home Skill](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/smart-home-skill-api-reference) using Golang. Alexa recognizes your voice commands and controls your IR-enabled appliances (in this case, Roomba, AC, and lights) by sending an infrared signal via [IRKit](http://getirkit.com/#IRKit-Internet-API). 
 
 The code was extended slightly to handle multiple appliances and more commands from [Taichi Nakashima](https://github.com/tcnksm)’s [original implementation](https://github.com/tcnksm/alexa-irkit-ac)
 
