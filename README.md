@@ -17,7 +17,7 @@ $ apex deploy ac
 ```
 
 ## Author 
-[Vincent Ethier] (https://github.com/vinidlidoo)
+[Vincent Ethier](https://github.com/vinidlidoo)
 
 
 
